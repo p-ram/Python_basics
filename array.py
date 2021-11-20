@@ -1,5 +1,5 @@
 print "Hello World, I am practicing basics of Python Array Datastructure!"
-"""
+
 arr=[5]
 print('single element',arr)
 
@@ -21,7 +21,7 @@ print(arr)
 
 for x in arr:
     print(x)
-"""
+
 #remove element in arr
 arr=[1,2,3,4,'asd','asdasd']
 for x in arr:
